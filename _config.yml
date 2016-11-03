@@ -3,8 +3,8 @@ description: I hope the field of computer science never loses its sense of fun.
 
 menu:
   Home: /
+  Notes: /notes
   About: /about
-  Github: https://github.com/zeqing-guo
   RSS: /atom.xml
 
 rss: /atom.xml
